@@ -14,6 +14,10 @@
   font-family: "Pangolin", Courier, monospace;
 }
 
+.hidden {
+  display: none;
+}
+
 header {
   font-size: x-large;
 }
